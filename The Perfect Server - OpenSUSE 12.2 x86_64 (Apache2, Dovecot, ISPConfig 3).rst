@@ -1,0 +1,2 @@
+In this tutorial we will show you how to change the password of your mail server which is running on OpenSUse 12.2 and ISPConfig 3.x. We will take it that you have configured you server from HERE.
+N.B.  The procedure which we will describe here works for us, there may have other thousands ways to achieve the same goal, and we don’t insure any guarantee that it will work for you or this is the perfect way.
